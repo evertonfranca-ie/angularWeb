@@ -2,3 +2,25 @@
     color: var(--primeira-color);
     font-weight: bold;
 }
+
+.navbar-light{
+    background-color: black;
+}
+
+.navbar-brand{
+    color: white;
+}
+
+.nav-link{
+    color: white;
+}
+
+.nav-link.active{
+    color: white;
+}
+
+.navbar-toggler{
+    color: white;
+    background-color: white;
+
+}
